@@ -13,9 +13,25 @@ The primary objective of this project was to reduce the percentage of late rates
 
 The project encompassed several key processes, including Exploratory Data Analysis (EDA), Data Preprocessing, Modeling, and Business Simulation, allowing us to generate appropriate business recommendations.
 
+The project is implemented using Python and used dataset sourced from Kaggle.
+
 - [Analyzing eCommerce Business Performance with SQL](https://github.com/kevinusmayadhyw/Analyzing-eCommerce-Business-Performance-with-SQL.git)
 
-On Progress .......
+This is a self-completed mini-project from Rakamin Academy, with the objective of analyzing the business performance of an E-Commerce company. The analysis takes into account various metrics, including customer growth, product quality, and payment types.
+
+The project is implemented using PostgreSQL and used dataset sourced from Rakamin Academy.
+
+- [Investigate Hotel Business Using Data Visualization](https://github.com/kevinusmayadhyw/Investigate-Hotel-Business-Using-Data-Visualization.git)
+
+This is a self-completed mini-project from Rakamin Academy, The primary focus is to understand how customers behave when making hotel reservations and to explore the relationship between customer behavior and the rate of hotel reservation cancellations.
+
+The project is implemented using Python and used dataset sourced from Rakamin Academy.
+
+- [Predict Customer Personality To Boost Marketing Campaign By Using Machine Learning](https://github.com/kevinusmayadhyw/Predict-Customer-Personality-To-Boost-Marketing-Campaign-By-Using-Machine-Learning.git)
+
+This is a self-completed mini-project from Rakamin Academy. In this project, the focus is on creating a cluster prediction model, utilizing insights from historical data to facilitate informed decision-making for the company.
+
+The project is implemented using Python and used dataset sourced from Rakamin Academy.
 
 ##
 <p align="center">
