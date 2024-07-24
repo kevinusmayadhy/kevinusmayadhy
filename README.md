@@ -5,6 +5,11 @@ Fresh Graduate of Informatics at Telkom University and Recently completed the "D
 Enthusiasm lies in the realm of data, possesses the ability to embrace new challenges, and is passionate about learning with cutting-edge technology.
 
 ## Project 
+- [Holiday Package Prediction (On-Progress)](https://github.com/kevinusmayadhy/Holiday-Package-Prediction)
+
+The dataset used in this analysis is sourced from Kaggle and is titled "Holiday Package Prediction". A notable issue with this data is that only 18% of the customers purchased the packages. The goal of this project is to understand why this is happening and how to improve sales.
+
+
 - [E-Commerce Shipping Data (Hexa Avengers)](https://github.com/kevinusmayadhyw/Hexa-Avengers--E-Commerce-Shipping-Data.git)
 
 This project, undertaken as the final task at Rakamin Academy, was completed within a group named Hexa Avengers, consisting of 6 members. I served as the Project Leader, and our team achieved recognition as the Best Final Project Team.
