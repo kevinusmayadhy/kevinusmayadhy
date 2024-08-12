@@ -5,10 +5,6 @@ Fresh Graduate of Informatics at Telkom University and Recently completed the "D
 Enthusiasm lies in the realm of data, possesses the ability to embrace new challenges, and is passionate about learning with cutting-edge technology.
 
 ## Project 
-- [Holiday Package Prediction (On-Progress)](https://github.com/kevinusmayadhy/Holiday-Package-Prediction)
-
-The dataset used in this analysis is sourced from Kaggle and is titled "Holiday Package Prediction". A notable issue with this data is that only 18% of the customers purchased the packages. The goal of this project is to understand why this is happening and how to improve sales.
-
 
 - [E-Commerce Shipping Data (Hexa Avengers)](https://github.com/kevinusmayadhyw/Hexa-Avengers--E-Commerce-Shipping-Data.git)
 
@@ -19,6 +15,14 @@ The primary objective of this project was to reduce the percentage of late rates
 The project encompassed several key processes, including Exploratory Data Analysis (EDA), Data Preprocessing, Modeling, and Business Simulation, allowing us to generate appropriate business recommendations.
 
 The project is implemented using Python and used dataset sourced from Kaggle.
+
+- [Holiday Package Prediction](https://github.com/kevinusmayadhy/Holiday-Package-Prediction)
+
+The dataset used in this analysis is sourced from Kaggle and is titled "Holiday Package Prediction". A notable issue with this data is that only 18% of the customers purchased the packages.
+
+The primary objective of this project was to reduce the marketing cost and increasing the purchase rate. The project encompassed several key processes, including Exploratory Data Analysis (EDA), Data Preprocessing, Modeling, and Business Simulation, allowing us to generate appropriate business recommendations.
+
+The project is implemented using Python.
 
 - [Predict Customer Clicked Ads Classification by Using Machine Learning](https://github.com/kevinusmayadhyw/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning.git)
 
